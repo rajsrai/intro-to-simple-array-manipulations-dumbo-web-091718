@@ -16,4 +16,5 @@ def using_pop(great_hits_of_the_nineties)
 end
 
 def pop_with_args
+  ["Danny T.", "Tyrion Lannister", "Stable Boy", "Sandor Clegane"]
   
